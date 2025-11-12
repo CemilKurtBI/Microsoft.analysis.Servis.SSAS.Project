@@ -1,5 +1,5 @@
-# Microsoft.analysis.Servis.SSAS.Project
-AdventureWorksDW2022 Veri Ambarı İle SSAS proje geliştirme.
+
+SSAS ile Uçtan Uca Proje
 
 1.SQL Server Analysis Services Projemize Başlıyoruz.
 2.Projemizin DWH Tablolarını Tanıma ve Analiz Etme.
